@@ -8,4 +8,5 @@ open class KotlinSpringBootApplication
 
 fun main(args: Array<String>) {
 	SpringApplication.run(KotlinSpringBootApplication::class.java, *args)
+
 }
